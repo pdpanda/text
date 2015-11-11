@@ -51,7 +51,7 @@ Window {
          height: 100;
          //wrapMode: Text.WordWrap;
          font.pixelSize: 24;
-         text: "I love CSU!Blue Text";
+         text: "Lei JinJing!Blue Text";
          font.underline: true;
          anchors.centerIn: parent;
          color: "blue";
