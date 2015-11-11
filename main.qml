@@ -51,7 +51,7 @@ Window {
          height: 100;
          //wrapMode: Text.WordWrap;
          font.pixelSize: 24;
-         text: "Hello Blue Text";
+         text: "Hello ,CSU!Blue Text";
          font.underline: true;
          anchors.centerIn: parent;
          color: "blue";
